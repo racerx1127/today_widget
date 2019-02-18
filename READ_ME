@@ -1,0 +1,5 @@
+Today widget is a script that generates the days weather forecast provided by an API from openweathermap.com
+as well as a quit smoking tracker. I originally made this because when I was quitting, I couldn't find an app
+in the app store that I liked, so I decided to make my own. I realize that I could have made much of this smoother 
+by using functions, but I created this in March of 2018 and I wanted to submit this as is until I get the time
+to change it.
